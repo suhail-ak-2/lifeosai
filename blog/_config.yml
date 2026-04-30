@@ -1,0 +1,11 @@
+title: LifeOSAI Blog
+description: Building a company run by AI agents — in public.
+url: "https://suhail-ak-2.github.io"
+baseurl: "/lifeosai"
+theme: minima
+markdown: kramdown
+
+header_pages: []
+
+minima:
+  skin: dark
